@@ -9,6 +9,180 @@
       },
       "Repos": [
         {
+          "name": "evilginx2",
+          "full_name": "kgretzky/evilginx2",
+          "html_url": "https://github.com/kgretzky/evilginx2",
+          "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, alowing to bypass 2-factor authentication."
+        },
+        {
+          "name": "netgraph",
+          "full_name": "ga0/netgraph",
+          "html_url": "https://github.com/ga0/netgraph",
+          "description": "A cross platform http sniffer with a web UI"
+        },
+        {
+          "name": "go-template",
+          "full_name": "kataras/go-template",
+          "html_url": "https://github.com/kataras/go-template",
+          "description": ":metal: The best way to work with different type of Template Engines and Parsers for Go Programming Language"
+        },
+        {
+          "name": "pongo2",
+          "full_name": "flosch/pongo2",
+          "html_url": "https://github.com/flosch/pongo2",
+          "description": "Django-syntax like template-engine for Go"
+        },
+        {
+          "name": "jet",
+          "full_name": "CloudyKit/jet",
+          "html_url": "https://github.com/CloudyKit/jet",
+          "description": "Jet  template engine"
+        },
+        {
+          "name": "gpool",
+          "full_name": "Broadroad/gpool",
+          "html_url": "https://github.com/Broadroad/gpool",
+          "description": "A golang tcp connection pool"
+        },
+        {
+          "name": "runnc",
+          "full_name": "nabla-containers/runnc",
+          "html_url": "https://github.com/nabla-containers/runnc",
+          "description": " OCI-interfacing Container runtime for Nabla Containers "
+        },
+        {
+          "name": "rql",
+          "full_name": "a8m/rql",
+          "html_url": "https://github.com/a8m/rql",
+          "description": "Resource Query Language for REST"
+        },
+        {
+          "name": "prose",
+          "full_name": "jdkato/prose",
+          "html_url": "https://github.com/jdkato/prose",
+          "description": ":book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction."
+        },
+        {
+          "name": "opencensus-go",
+          "full_name": "census-instrumentation/opencensus-go",
+          "html_url": "https://github.com/census-instrumentation/opencensus-go",
+          "description": "A stats collection and distributed tracing framework"
+        },
+        {
+          "name": "annie",
+          "full_name": "iawia002/annie",
+          "html_url": "https://github.com/iawia002/annie",
+          "description": "👾 Fast, simple and clean video downloader"
+        },
+        {
+          "name": "flaggy",
+          "full_name": "integrii/flaggy",
+          "html_url": "https://github.com/integrii/flaggy",
+          "description": "Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies."
+        },
+        {
+          "name": "falcon-plus",
+          "full_name": "open-falcon/falcon-plus",
+          "html_url": "https://github.com/open-falcon/falcon-plus",
+          "description": " An open-source and enterprise-level monitoring system."
+        },
+        {
+          "name": "noise",
+          "full_name": "perlin-network/noise",
+          "html_url": "https://github.com/perlin-network/noise",
+          "description": "A decentralized P2P networking stack written in Go."
+        },
+        {
+          "name": "jennifer",
+          "full_name": "dave/jennifer",
+          "html_url": "https://github.com/dave/jennifer",
+          "description": "Jennifer is a code generator for Go"
+        },
+        {
+          "name": "golb",
+          "full_name": "onestraw/golb",
+          "html_url": "https://github.com/onestraw/golb",
+          "description": ":octopus: Yet another load balancer"
+        },
+        {
+          "name": "go-plugin",
+          "full_name": "hashicorp/go-plugin",
+          "html_url": "https://github.com/hashicorp/go-plugin",
+          "description": "Golang plugin system over RPC."
+        },
+        {
+          "name": "ln-paywall",
+          "full_name": "philippgille/ln-paywall",
+          "html_url": "https://github.com/philippgille/ln-paywall",
+          "description": "Go middleware for monetizing your API on a per-request basis with Bitcoin and Lightning ⚡️"
+        },
+        {
+          "name": "reg",
+          "full_name": "genuinetools/reg",
+          "html_url": "https://github.com/genuinetools/reg",
+          "description": "Docker registry v2 command line client and repo listing generator with security checks."
+        },
+        {
+          "name": "httpu",
+          "full_name": "hazbo/httpu",
+          "html_url": "https://github.com/hazbo/httpu",
+          "description": "The terminal-first http client"
+        },
+        {
+          "name": "ctop",
+          "full_name": "bcicen/ctop",
+          "html_url": "https://github.com/bcicen/ctop",
+          "description": "Top-like interface for container metrics"
+        },
+        {
+          "name": "coredns",
+          "full_name": "coredns/coredns",
+          "html_url": "https://github.com/coredns/coredns",
+          "description": "CoreDNS is a DNS server that chains plugins"
+        },
+        {
+          "name": "subfinder",
+          "full_name": "subfinder/subfinder",
+          "html_url": "https://github.com/subfinder/subfinder",
+          "description": "SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing."
+        },
+        {
+          "name": "minikube",
+          "full_name": "kubernetes/minikube",
+          "html_url": "https://github.com/kubernetes/minikube",
+          "description": "Run Kubernetes locally"
+        },
+        {
+          "name": "kafka-go",
+          "full_name": "segmentio/kafka-go",
+          "html_url": "https://github.com/segmentio/kafka-go",
+          "description": "Kafka library in Go"
+        },
+        {
+          "name": "statup",
+          "full_name": "hunterlong/statup",
+          "html_url": "https://github.com/hunterlong/statup",
+          "description": "Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment."
+        },
+        {
+          "name": "confita",
+          "full_name": "heetch/confita",
+          "html_url": "https://github.com/heetch/confita",
+          "description": "Load configuration in cascade from multiple backends into a struct"
+        },
+        {
+          "name": "go-ethereum",
+          "full_name": "ethereum/go-ethereum",
+          "html_url": "https://github.com/ethereum/go-ethereum",
+          "description": "Official Go implementation of the Ethereum protocol"
+        },
+        {
+          "name": "jstream",
+          "full_name": "bcicen/jstream",
+          "html_url": "https://github.com/bcicen/jstream",
+          "description": "Streaming JSON parser for Go"
+        },
+        {
           "name": "github_flavored_markdown",
           "full_name": "shurcooL/github_flavored_markdown",
           "html_url": "https://github.com/shurcooL/github_flavored_markdown",
@@ -16,15 +190,15 @@
         },
         {
           "name": "meq",
-          "full_name": "cosmos-gg/meq",
-          "html_url": "https://github.com/cosmos-gg/meq",
+          "full_name": "meqio/meq",
+          "html_url": "https://github.com/meqio/meq",
           "description": "A modern messaging platform for Message Push、IM、IoT etc, based on MQTT protocol"
         },
         {
           "name": "mkcert",
           "full_name": "FiloSottile/mkcert",
           "html_url": "https://github.com/FiloSottile/mkcert",
-          "description": "A simple zero-config tool to make locally-trusted development certificates with any names you'd like."
+          "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
         },
         {
           "name": "gometalinter",
@@ -42,7 +216,7 @@
           "name": "gojay",
           "full_name": "francoispqt/gojay",
           "html_url": "https://github.com/francoispqt/gojay",
-          "description": "highly performant JSON encoder/decoder with powerful stream API for Golang "
+          "description": "fastest JSON encoder/decoder with powerful stream API for Golang "
         },
         {
           "name": "asciigraph",
@@ -90,7 +264,7 @@
           "name": "liman",
           "full_name": "salihciftci/liman",
           "html_url": "https://github.com/salihciftci/liman",
-          "description": "Web application for monitoring docker. Monitor docker inside the docker."
+          "description": "Self-hosted web application for monitoring docker."
         },
         {
           "name": "hashmap",
@@ -126,7 +300,7 @@
           "name": "meli",
           "full_name": "komuw/meli",
           "html_url": "https://github.com/komuw/meli",
-          "description": "docker-compose alternative"
+          "description": "faster, drop in, alternative to docker-compose"
         },
         {
           "name": "gore",
@@ -144,7 +318,7 @@
           "name": "pigo",
           "full_name": "esimov/pigo",
           "html_url": "https://github.com/esimov/pigo",
-          "description": "Golang implementation of Pico face detection library"
+          "description": "Golang implementation of Pico face detection library."
         },
         {
           "name": "oauth2",
@@ -162,7 +336,7 @@
           "name": "revive",
           "full_name": "mgechev/revive",
           "html_url": "https://github.com/mgechev/revive",
-          "description": "🔥 Linter for Go. ~6x faster, configurable, extensible, and beautiful drop-in replacement of golint."
+          "description": "🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint."
         },
         {
           "name": "star",
@@ -822,13 +996,13 @@
           "name": "gock",
           "full_name": "h2non/gock",
           "html_url": "https://github.com/h2non/gock",
-          "description": "Simple and expressive HTTP traffic mocking and expectations made easy in Go ༼ʘ̚ل͜ʘ̚༽"
+          "description": "Simple, expressive HTTP traffic mocking and expectations made easy in Go ༼ʘ̚ل͜ʘ̚༽"
         },
         {
           "name": "baloo",
           "full_name": "h2non/baloo",
           "html_url": "https://github.com/h2non/baloo",
-          "description": "Expressive End-to-End HTTP API testing made easy in Go"
+          "description": "Expressive end-to-end HTTP API testing made easy in Go"
         },
         {
           "name": "httpexpect",
@@ -978,7 +1152,7 @@
           "name": "awesome-mac",
           "full_name": "jaywcjlove/awesome-mac",
           "html_url": "https://github.com/jaywcjlove/awesome-mac",
-          "description": " This repo is a collection of awesome Mac applications and tools for developers and designers. "
+          "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
         },
         {
           "name": "fsql",
@@ -1632,7 +1806,7 @@
           "name": "iris",
           "full_name": "kataras/iris",
           "html_url": "https://github.com/kataras/iris",
-          "description": "The fastest open-source and community-driven web framework for Go in (THIS) Earth. One of the most documented GitHub projects: https://github.com/kataras/iris/#learn"
+          "description": "The fastest backend community-driven web framework in (THIS) Earth. Can your favourite web framework do that? 👉 http://bit.ly/iriscandothat1 or even http://bit.ly/iriscandothat2"
         },
         {
           "name": "sessions",
