@@ -9,6 +9,24 @@
       },
       "Repos": [
         {
+          "name": "go-set",
+          "full_name": "scylladb/go-set",
+          "html_url": "https://github.com/scylladb/go-set",
+          "description": "Type-safe, zero-allocation sets for Go"
+        },
+        {
+          "name": "ngrok",
+          "full_name": "inconshreveable/ngrok",
+          "html_url": "https://github.com/inconshreveable/ngrok",
+          "description": "Introspected tunnels to localhost"
+        },
+        {
+          "name": "gosec",
+          "full_name": "securego/gosec",
+          "html_url": "https://github.com/securego/gosec",
+          "description": "Golang security checker"
+        },
+        {
           "name": "evilginx2",
           "full_name": "kgretzky/evilginx2",
           "html_url": "https://github.com/kgretzky/evilginx2",
@@ -42,7 +60,7 @@
           "name": "gpool",
           "full_name": "Broadroad/gpool",
           "html_url": "https://github.com/Broadroad/gpool",
-          "description": "A golang tcp connection pool"
+          "description": "A golang resource pool which will support connection pool, buffer pool, goroutine pool. Coming soon"
         },
         {
           "name": "runnc",
@@ -246,7 +264,7 @@
           "name": "pouch",
           "full_name": "alibaba/pouch",
           "html_url": "https://github.com/alibaba/pouch",
-          "description": "PouchContainer is an open-source project created to promote the container technology movement."
+          "description": "An Efficient Enterprise-class Rich Container Engine"
         },
         {
           "name": "simpletable",
@@ -762,7 +780,7 @@
           "name": "istio",
           "full_name": "istio/istio",
           "html_url": "https://github.com/istio/istio",
-          "description": "An open platform to connect, manage, and secure microservices."
+          "description": "Connect, secure, control, and observe services."
         },
         {
           "name": "jaeger",
@@ -996,7 +1014,7 @@
           "name": "gock",
           "full_name": "h2non/gock",
           "html_url": "https://github.com/h2non/gock",
-          "description": "Simple, expressive HTTP traffic mocking and expectations made easy in Go ༼ʘ̚ل͜ʘ̚༽"
+          "description": "Simple, expressive HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽"
         },
         {
           "name": "baloo",
@@ -1774,8 +1792,8 @@
         },
         {
           "name": "harbor",
-          "full_name": "vmware/harbor",
-          "html_url": "https://github.com/vmware/harbor",
+          "full_name": "goharbor/harbor",
+          "html_url": "https://github.com/goharbor/harbor",
           "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
         },
         {
@@ -1806,7 +1824,7 @@
           "name": "iris",
           "full_name": "kataras/iris",
           "html_url": "https://github.com/kataras/iris",
-          "description": "The fastest backend community-driven web framework in (THIS) Earth. Can your favourite web framework do that? 👉 http://bit.ly/iriscandothat1 or even http://bit.ly/iriscandothat2"
+          "description": "The fastest backend community-driven web framework on (THIS) Earth. Can your favourite web framework do that? 👉 http://bit.ly/iriscandothat1 or even http://bit.ly/iriscandothat2"
         },
         {
           "name": "sessions",
