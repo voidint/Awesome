@@ -8,6 +8,1134 @@
       },
       "repos": [
         {
+          "name": "earthly",
+          "full_name": "earthly/earthly",
+          "html_url": "https://github.com/earthly/earthly",
+          "description": "Build automation for the container era"
+        },
+        {
+          "name": "walk",
+          "full_name": "lxn/walk",
+          "html_url": "https://github.com/lxn/walk",
+          "description": "A Windows GUI toolkit for the Go Programming Language"
+        },
+        {
+          "name": "gops",
+          "full_name": "google/gops",
+          "html_url": "https://github.com/google/gops",
+          "description": "A tool to list and diagnose Go processes currently running on your system"
+        },
+        {
+          "name": "alipay",
+          "full_name": "smartwalle/alipay",
+          "html_url": "https://github.com/smartwalle/alipay",
+          "description": "支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。"
+        },
+        {
+          "name": "go-leetcode",
+          "full_name": "austingebauer/go-leetcode",
+          "html_url": "https://github.com/austingebauer/go-leetcode",
+          "description": "A collection of 100+ popular LeetCode problems that I've solved in Go."
+        },
+        {
+          "name": "darling",
+          "full_name": "darlinghq/darling",
+          "html_url": "https://github.com/darlinghq/darling",
+          "description": "Darwin/macOS emulation layer for Linux"
+        },
+        {
+          "name": "gost",
+          "full_name": "ginuerzh/gost",
+          "html_url": "https://github.com/ginuerzh/gost",
+          "description": "GO Simple Tunnel - a simple tunnel written in golang"
+        },
+        {
+          "name": "go-strftime",
+          "full_name": "jehiah/go-strftime",
+          "html_url": "https://github.com/jehiah/go-strftime",
+          "description": "go implementation of strftime"
+        },
+        {
+          "name": "nightingale",
+          "full_name": "didi/nightingale",
+          "html_url": "https://github.com/didi/nightingale",
+          "description": "A Distributed and High-Performance Monitoring System"
+        },
+        {
+          "name": "go-ping",
+          "full_name": "sparrc/go-ping",
+          "html_url": "https://github.com/sparrc/go-ping",
+          "description": "ICMP Ping library for Go"
+        },
+        {
+          "name": "bcc",
+          "full_name": "iovisor/bcc",
+          "html_url": "https://github.com/iovisor/bcc",
+          "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more"
+        },
+        {
+          "name": "sentinel-golang",
+          "full_name": "alibaba/sentinel-golang",
+          "html_url": "https://github.com/alibaba/sentinel-golang",
+          "description": "Sentinel Go version (Reliability \u0026 Resilience)"
+        },
+        {
+          "name": "go-langserver",
+          "full_name": "sourcegraph/go-langserver",
+          "html_url": "https://github.com/sourcegraph/go-langserver",
+          "description": "Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)"
+        },
+        {
+          "name": "jocko",
+          "full_name": "nash-io/jocko",
+          "html_url": "https://github.com/nash-io/jocko",
+          "description": "Kafka implemented in Golang with built-in coordination (No ZooKeeper, single binary install, Cloud Native)"
+        },
+        {
+          "name": "crawlab",
+          "full_name": "crawlab-team/crawlab",
+          "html_url": "https://github.com/crawlab-team/crawlab",
+          "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架"
+        },
+        {
+          "name": "reviewdog",
+          "full_name": "reviewdog/reviewdog",
+          "html_url": "https://github.com/reviewdog/reviewdog",
+          "description": ":dog: Automated code review tool integrated with any code analysis tools regardless of programming language"
+        },
+        {
+          "name": "dnscrypt-proxy",
+          "full_name": "DNSCrypt/dnscrypt-proxy",
+          "html_url": "https://github.com/DNSCrypt/dnscrypt-proxy",
+          "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols."
+        },
+        {
+          "name": "gocron",
+          "full_name": "jasonlvhit/gocron",
+          "html_url": "https://github.com/jasonlvhit/gocron",
+          "description": "A Golang Job Scheduling Package."
+        },
+        {
+          "name": "npipe",
+          "full_name": "natefinch/npipe",
+          "html_url": "https://github.com/natefinch/npipe",
+          "description": "A Windows named pipe implementation written in pure Go."
+        },
+        {
+          "name": "sync",
+          "full_name": "golang/sync",
+          "html_url": "https://github.com/golang/sync",
+          "description": "[mirror] concurrency primitives"
+        },
+        {
+          "name": "go-fuzz",
+          "full_name": "dvyukov/go-fuzz",
+          "html_url": "https://github.com/dvyukov/go-fuzz",
+          "description": "Randomized testing for Go"
+        },
+        {
+          "name": "netscanner",
+          "full_name": "R4yGM/netscanner",
+          "html_url": "https://github.com/R4yGM/netscanner",
+          "description": "netscanner - TCP/UDP scanner to find open or closed ports"
+        },
+        {
+          "name": "gost",
+          "full_name": "dubbogo/gost",
+          "html_url": "https://github.com/dubbogo/gost",
+          "description": "dubbogo golang standard library"
+        },
+        {
+          "name": "getty",
+          "full_name": "dubbogo/getty",
+          "html_url": "https://github.com/dubbogo/getty",
+          "description": "a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd"
+        },
+        {
+          "name": "redis-go-cluster",
+          "full_name": "wuxibin89/redis-go-cluster",
+          "html_url": "https://github.com/wuxibin89/redis-go-cluster",
+          "description": "redis cluster client implementation in Go"
+        },
+        {
+          "name": "redis",
+          "full_name": "antirez/redis",
+          "html_url": "https://github.com/antirez/redis",
+          "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps."
+        },
+        {
+          "name": "goav",
+          "full_name": "giorgisio/goav",
+          "html_url": "https://github.com/giorgisio/goav",
+          "description": "Golang bindings for FFmpeg"
+        },
+        {
+          "name": "awesome-http-benchmark",
+          "full_name": "denji/awesome-http-benchmark",
+          "html_url": "https://github.com/denji/awesome-http-benchmark",
+          "description": "HTTP(S) benchmark tools, testing/debugging, \u0026 restAPI (RESTful)"
+        },
+        {
+          "name": "gencode",
+          "full_name": "andyleap/gencode",
+          "html_url": "https://github.com/andyleap/gencode",
+          "description": ""
+        },
+        {
+          "name": "msgp",
+          "full_name": "tinylib/msgp",
+          "html_url": "https://github.com/tinylib/msgp",
+          "description": "A Go code generator for MessagePack / msgpack.org[Go]"
+        },
+        {
+          "name": "protobuf",
+          "full_name": "gogo/protobuf",
+          "html_url": "https://github.com/gogo/protobuf",
+          "description": "Protocol Buffers for Go with Gadgets"
+        },
+        {
+          "name": "pool",
+          "full_name": "fatih/pool",
+          "html_url": "https://github.com/fatih/pool",
+          "description": "Connection pool for Go's net.Conn interface"
+        },
+        {
+          "name": "pool",
+          "full_name": "silenceper/pool",
+          "html_url": "https://github.com/silenceper/pool",
+          "description": "Golang 通用网络连接池"
+        },
+        {
+          "name": "redisearch-go",
+          "full_name": "RediSearch/redisearch-go",
+          "html_url": "https://github.com/RediSearch/redisearch-go",
+          "description": "Go client for RediSearch"
+        },
+        {
+          "name": "go-rejson",
+          "full_name": "nitishm/go-rejson",
+          "html_url": "https://github.com/nitishm/go-rejson",
+          "description": "Golang client for redislabs' ReJSON module with support for multilple redis clients (redigo, go-redis)"
+        },
+        {
+          "name": "minio",
+          "full_name": "minio/minio",
+          "html_url": "https://github.com/minio/minio",
+          "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs"
+        },
+        {
+          "name": "webbrowser",
+          "full_name": "toqueteos/webbrowser",
+          "html_url": "https://github.com/toqueteos/webbrowser",
+          "description": ":globe_with_meridians::snake: Python's webbrowser in Go. Simple API for opening web pages on your default browser."
+        },
+        {
+          "name": "evio",
+          "full_name": "tidwall/evio",
+          "html_url": "https://github.com/tidwall/evio",
+          "description": "Fast event-loop networking for Go"
+        },
+        {
+          "name": "dsync",
+          "full_name": "minio/dsync",
+          "html_url": "https://github.com/minio/dsync",
+          "description": "A distributed sync package."
+        },
+        {
+          "name": "mockery",
+          "full_name": "vektra/mockery",
+          "html_url": "https://github.com/vektra/mockery",
+          "description": "A mock code autogenerator for golang"
+        },
+        {
+          "name": "nebula",
+          "full_name": "vesoft-inc/nebula",
+          "html_url": "https://github.com/vesoft-inc/nebula",
+          "description": "  A distributed, fast open-source graph database featuring horizontal scalability and high availability"
+        },
+        {
+          "name": "verona",
+          "full_name": "microsoft/verona",
+          "html_url": "https://github.com/microsoft/verona",
+          "description": "Research programming language for concurrent ownership"
+        },
+        {
+          "name": "go-radix",
+          "full_name": "armon/go-radix",
+          "html_url": "https://github.com/armon/go-radix",
+          "description": "Golang implementation of Radix trees"
+        },
+        {
+          "name": "Go",
+          "full_name": "TheAlgorithms/Go",
+          "html_url": "https://github.com/TheAlgorithms/Go",
+          "description": "Algorithms Implemented in GoLang"
+        },
+        {
+          "name": "groupcache",
+          "full_name": "golang/groupcache",
+          "html_url": "https://github.com/golang/groupcache",
+          "description": "groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases."
+        },
+        {
+          "name": "eris",
+          "full_name": "rotisserie/eris",
+          "html_url": "https://github.com/rotisserie/eris",
+          "description": "eris provides a better way to handle, trace, and log errors in Go 🎆"
+        },
+        {
+          "name": "libpod",
+          "full_name": "containers/libpod",
+          "html_url": "https://github.com/containers/libpod",
+          "description": "libpod is a library used to create container pods. Home of Podman."
+        },
+        {
+          "name": "dkron",
+          "full_name": "distribworks/dkron",
+          "html_url": "https://github.com/distribworks/dkron",
+          "description": "Dkron - Distributed, fault tolerant job scheduling system https://dkron.io"
+        },
+        {
+          "name": "sampler",
+          "full_name": "sqshq/sampler",
+          "html_url": "https://github.com/sqshq/sampler",
+          "description": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file."
+        },
+        {
+          "name": "goleak",
+          "full_name": "uber-go/goleak",
+          "html_url": "https://github.com/uber-go/goleak",
+          "description": "Goroutine leak detector"
+        },
+        {
+          "name": "vitess",
+          "full_name": "vitessio/vitess",
+          "html_url": "https://github.com/vitessio/vitess",
+          "description": "Vitess is a database clustering system for horizontal scaling of MySQL."
+        },
+        {
+          "name": "torrent-client",
+          "full_name": "veggiedefender/torrent-client",
+          "html_url": "https://github.com/veggiedefender/torrent-client",
+          "description": "Tiny BitTorrent client written in Go"
+        },
+        {
+          "name": "awesome-terraform",
+          "full_name": "shuaibiyy/awesome-terraform",
+          "html_url": "https://github.com/shuaibiyy/awesome-terraform",
+          "description": "Curated list of resources on HashiCorp's Terraform"
+        },
+        {
+          "name": "directio",
+          "full_name": "ncw/directio",
+          "html_url": "https://github.com/ncw/directio",
+          "description": "This is library for the Go language to enable use of Direct IO under all OSes"
+        },
+        {
+          "name": "go-term-markdown",
+          "full_name": "MichaelMure/go-term-markdown",
+          "html_url": "https://github.com/MichaelMure/go-term-markdown",
+          "description": "A markdown renderer package for the terminal"
+        },
+        {
+          "name": "coca",
+          "full_name": "phodal/coca",
+          "html_url": "https://github.com/phodal/coca",
+          "description": "Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的瑞士军刀。它可以分析代码中的 badsmell，行数统计，分析调用与依赖，进行 Git 分析，以及自动化重构等。"
+        },
+        {
+          "name": "pcstat",
+          "full_name": "tobert/pcstat",
+          "html_url": "https://github.com/tobert/pcstat",
+          "description": "Page Cache stat: get page cache stats for files on Linux"
+        },
+        {
+          "name": "xorfilter",
+          "full_name": "FastFilter/xorfilter",
+          "html_url": "https://github.com/FastFilter/xorfilter",
+          "description": "Go library implementing xor filters"
+        },
+        {
+          "name": "aws-lambda-go",
+          "full_name": "aws/aws-lambda-go",
+          "html_url": "https://github.com/aws/aws-lambda-go",
+          "description": "Libraries, samples and tools to help Go developers develop AWS Lambda functions."
+        },
+        {
+          "name": "go-sniffer",
+          "full_name": "40t/go-sniffer",
+          "html_url": "https://github.com/40t/go-sniffer",
+          "description": "🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。"
+        },
+        {
+          "name": "gopacket",
+          "full_name": "google/gopacket",
+          "html_url": "https://github.com/google/gopacket",
+          "description": "Provides packet processing capabilities for Go"
+        },
+        {
+          "name": "go-callvis",
+          "full_name": "ofabry/go-callvis",
+          "html_url": "https://github.com/ofabry/go-callvis",
+          "description": "Visualize call graph of a Go program using dot (Graphviz)"
+        },
+        {
+          "name": "renameio",
+          "full_name": "google/renameio",
+          "html_url": "https://github.com/google/renameio",
+          "description": "Package renameio provides a way to atomically create or replace a file or symbolic link."
+        },
+        {
+          "name": "mmap-go",
+          "full_name": "edsrzf/mmap-go",
+          "html_url": "https://github.com/edsrzf/mmap-go",
+          "description": "A portable mmap package for Go"
+        },
+        {
+          "name": "KAP",
+          "full_name": "AlkenePan/KAP",
+          "html_url": "https://github.com/AlkenePan/KAP",
+          "description": ""
+        },
+        {
+          "name": "go-diff",
+          "full_name": "sergi/go-diff",
+          "html_url": "https://github.com/sergi/go-diff",
+          "description": "Diff, match and patch text in Go"
+        },
+        {
+          "name": "postwoman",
+          "full_name": "liyasthomas/postwoman",
+          "html_url": "https://github.com/liyasthomas/postwoman",
+          "description": "👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io"
+        },
+        {
+          "name": "govmomi",
+          "full_name": "vmware/govmomi",
+          "html_url": "https://github.com/vmware/govmomi",
+          "description": "Go library for the VMware vSphere API"
+        },
+        {
+          "name": "httpmock",
+          "full_name": "jarcoal/httpmock",
+          "html_url": "https://github.com/jarcoal/httpmock",
+          "description": "HTTP mocking for Golang"
+        },
+        {
+          "name": "ramsql",
+          "full_name": "proullon/ramsql",
+          "html_url": "https://github.com/proullon/ramsql",
+          "description": "In-memory SQL engine in Go sql/driver for testing purpose"
+        },
+        {
+          "name": "mogi",
+          "full_name": "guregu/mogi",
+          "html_url": "https://github.com/guregu/mogi",
+          "description": "fancy sql stubs"
+        },
+        {
+          "name": "go-testdb",
+          "full_name": "erikstmartin/go-testdb",
+          "html_url": "https://github.com/erikstmartin/go-testdb",
+          "description": "Framework for stubbing responses from go's driver.Driver interface"
+        },
+        {
+          "name": "gohack",
+          "full_name": "rogpeppe/gohack",
+          "html_url": "https://github.com/rogpeppe/gohack",
+          "description": "Make temporary edits to your Go module dependencies"
+        },
+        {
+          "name": "bc",
+          "full_name": "voidint/bc",
+          "html_url": "https://github.com/voidint/bc",
+          "description": "Byte calculator"
+        },
+        {
+          "name": "stack",
+          "full_name": "romanyx/stack",
+          "html_url": "https://github.com/romanyx/stack",
+          "description": "Same as fmt.Errorf but with stack trace."
+        },
+        {
+          "name": "automaxprocs",
+          "full_name": "uber-go/automaxprocs",
+          "html_url": "https://github.com/uber-go/automaxprocs",
+          "description": "Automatically set GOMAXPROCS to match Linux container CPU quota."
+        },
+        {
+          "name": "grpcui",
+          "full_name": "fullstorydev/grpcui",
+          "html_url": "https://github.com/fullstorydev/grpcui",
+          "description": "An interactive web UI for gRPC, along the lines of postman"
+        },
+        {
+          "name": "gev",
+          "full_name": "Allenxuxu/gev",
+          "html_url": "https://github.com/Allenxuxu/gev",
+          "description": "🚀Gev is a lightweight, fast non-blocking TCP network library based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers. "
+        },
+        {
+          "name": "spikeSystem",
+          "full_name": "GuoZhaoran/spikeSystem",
+          "html_url": "https://github.com/GuoZhaoran/spikeSystem",
+          "description": "一个秒杀系统的例子分析"
+        },
+        {
+          "name": "navi",
+          "full_name": "denisidoro/navi",
+          "html_url": "https://github.com/denisidoro/navi",
+          "description": "An interactive cheatsheet tool for the command-line and application launchers"
+        },
+        {
+          "name": "testing",
+          "full_name": "benbjohnson/testing",
+          "html_url": "https://github.com/benbjohnson/testing",
+          "description": "A small collection of functions for Go testing."
+        },
+        {
+          "name": "docx2md",
+          "full_name": "mattn/docx2md",
+          "html_url": "https://github.com/mattn/docx2md",
+          "description": "Convert Microsoft Word Document to Markdown"
+        },
+        {
+          "name": "guide",
+          "full_name": "uber-go/guide",
+          "html_url": "https://github.com/uber-go/guide",
+          "description": "The Uber Go Style Guide."
+        },
+        {
+          "name": "LeetCode-in-Go",
+          "full_name": "aQuaYi/LeetCode-in-Go",
+          "html_url": "https://github.com/aQuaYi/LeetCode-in-Go",
+          "description": "Go Solution for LeetCode algorithms problems, 100% coverage."
+        },
+        {
+          "name": "gnet",
+          "full_name": "panjf2000/gnet",
+          "html_url": "https://github.com/panjf2000/gnet",
+          "description": "🚀gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。"
+        },
+        {
+          "name": "tools",
+          "full_name": "golang/tools",
+          "html_url": "https://github.com/golang/tools",
+          "description": "[mirror] Go Tools"
+        },
+        {
+          "name": "deepcopy",
+          "full_name": "mohae/deepcopy",
+          "html_url": "https://github.com/mohae/deepcopy",
+          "description": "Deep copy things"
+        },
+        {
+          "name": "go-flutter",
+          "full_name": "go-flutter-desktop/go-flutter",
+          "html_url": "https://github.com/go-flutter-desktop/go-flutter",
+          "description": "Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW."
+        },
+        {
+          "name": "tldr",
+          "full_name": "tldr-pages/tldr",
+          "html_url": "https://github.com/tldr-pages/tldr",
+          "description": "📚 Simplified and community-driven man pages"
+        },
+        {
+          "name": "sqlmap",
+          "full_name": "sqlmapproject/sqlmap",
+          "html_url": "https://github.com/sqlmapproject/sqlmap",
+          "description": "Automatic SQL injection and database takeover tool"
+        },
+        {
+          "name": "dns",
+          "full_name": "miekg/dns",
+          "html_url": "https://github.com/miekg/dns",
+          "description": "DNS library in Go"
+        },
+        {
+          "name": "copier",
+          "full_name": "jinzhu/copier",
+          "html_url": "https://github.com/jinzhu/copier",
+          "description": "Copier for golang, copy value from struct to struct and more"
+        },
+        {
+          "name": "go-grpc-middleware",
+          "full_name": "grpc-ecosystem/go-grpc-middleware",
+          "html_url": "https://github.com/grpc-ecosystem/go-grpc-middleware",
+          "description": "Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more."
+        },
+        {
+          "name": "golang-lru",
+          "full_name": "hashicorp/golang-lru",
+          "html_url": "https://github.com/hashicorp/golang-lru",
+          "description": "Golang LRU cache"
+        },
+        {
+          "name": "alice",
+          "full_name": "justinas/alice",
+          "html_url": "https://github.com/justinas/alice",
+          "description": "Painless middleware chaining for Go"
+        },
+        {
+          "name": "bingo",
+          "full_name": "saibing/bingo",
+          "html_url": "https://github.com/saibing/bingo",
+          "description": " Bingo is a Go language server that speaks Language Server Protocol."
+        },
+        {
+          "name": "otto",
+          "full_name": "robertkrimen/otto",
+          "html_url": "https://github.com/robertkrimen/otto",
+          "description": "A JavaScript interpreter in Go (golang)"
+        },
+        {
+          "name": "gonum",
+          "full_name": "gonum/gonum",
+          "html_url": "https://github.com/gonum/gonum",
+          "description": "Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more"
+        },
+        {
+          "name": "gopay",
+          "full_name": "iGoogle-ink/gopay",
+          "html_url": "https://github.com/iGoogle-ink/gopay",
+          "description": "QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【持续更新，望开发者及时升级】"
+        },
+        {
+          "name": "go-prompt",
+          "full_name": "c-bata/go-prompt",
+          "html_url": "https://github.com/c-bata/go-prompt",
+          "description": "Building powerful interactive prompts in Go, inspired by python-prompt-toolkit."
+        },
+        {
+          "name": "golang-design-pattern",
+          "full_name": "senghoo/golang-design-pattern",
+          "html_url": "https://github.com/senghoo/golang-design-pattern",
+          "description": "设计模式 Golang实现－《研磨设计模式》读书笔记"
+        },
+        {
+          "name": "yaegi",
+          "full_name": "containous/yaegi",
+          "html_url": "https://github.com/containous/yaegi",
+          "description": "Yaegi is Another Elegant Go Interpreter"
+        },
+        {
+          "name": "script",
+          "full_name": "bitfield/script",
+          "html_url": "https://github.com/bitfield/script",
+          "description": "Making it easy to write shell-like scripts in Go"
+        },
+        {
+          "name": "inlets",
+          "full_name": "inlets/inlets",
+          "html_url": "https://github.com/inlets/inlets",
+          "description": "Cloud Native Tunnel written in Go"
+        },
+        {
+          "name": "sprig",
+          "full_name": "Masterminds/sprig",
+          "html_url": "https://github.com/Masterminds/sprig",
+          "description": "Useful template functions for Go templates."
+        },
+        {
+          "name": "mapstructure",
+          "full_name": "mitchellh/mapstructure",
+          "html_url": "https://github.com/mitchellh/mapstructure",
+          "description": "Go library for decoding generic map values into native Go structures and vice versa."
+        },
+        {
+          "name": "Awesome-Interview",
+          "full_name": "Awesome-Interview/Awesome-Interview",
+          "html_url": "https://github.com/Awesome-Interview/Awesome-Interview",
+          "description": "Collection of awesome interview references."
+        },
+        {
+          "name": "Clipy",
+          "full_name": "Clipy/Clipy",
+          "html_url": "https://github.com/Clipy/Clipy",
+          "description": "Clipboard extension app for macOS."
+        },
+        {
+          "name": "direnv",
+          "full_name": "direnv/direnv",
+          "html_url": "https://github.com/direnv/direnv",
+          "description": "unclutter your .profile"
+        },
+        {
+          "name": "profile",
+          "full_name": "pkg/profile",
+          "html_url": "https://github.com/pkg/profile",
+          "description": "Simple profiling for Go"
+        },
+        {
+          "name": "ipmi_exporter",
+          "full_name": "soundcloud/ipmi_exporter",
+          "html_url": "https://github.com/soundcloud/ipmi_exporter",
+          "description": "Remote IPMI exporter for Prometheus"
+        },
+        {
+          "name": "cyclicbarrier",
+          "full_name": "marusama/cyclicbarrier",
+          "html_url": "https://github.com/marusama/cyclicbarrier",
+          "description": "CyclicBarrier golang implementation"
+        },
+        {
+          "name": "semaphore",
+          "full_name": "marusama/semaphore",
+          "html_url": "https://github.com/marusama/semaphore",
+          "description": "Fast resizable golang semaphore"
+        },
+        {
+          "name": "snmp_exporter",
+          "full_name": "prometheus/snmp_exporter",
+          "html_url": "https://github.com/prometheus/snmp_exporter",
+          "description": "SNMP Exporter for Prometheus"
+        },
+        {
+          "name": "gosnmp",
+          "full_name": "soniah/gosnmp",
+          "html_url": "https://github.com/soniah/gosnmp",
+          "description": "An SNMP library written in GoLang."
+        },
+        {
+          "name": "xpath",
+          "full_name": "antchfx/xpath",
+          "html_url": "https://github.com/antchfx/xpath",
+          "description": "XPath package for Golang, supports HTML, XML, JSON document query."
+        },
+        {
+          "name": "TDengine",
+          "full_name": "taosdata/TDengine",
+          "html_url": "https://github.com/taosdata/TDengine",
+          "description": "An open-source big data platform designed and optimized for the Internet of Things (IoT)."
+        },
+        {
+          "name": "goipmi",
+          "full_name": "vmware/goipmi",
+          "html_url": "https://github.com/vmware/goipmi",
+          "description": "Go IPMI library"
+        },
+        {
+          "name": "mongo-go-driver",
+          "full_name": "mongodb/mongo-go-driver",
+          "html_url": "https://github.com/mongodb/mongo-go-driver",
+          "description": "The Go driver for MongoDB"
+        },
+        {
+          "name": "vugu",
+          "full_name": "vugu/vugu",
+          "html_url": "https://github.com/vugu/vugu",
+          "description": "Vugu: A modern UI library for Go+WebAssembly (experimental)"
+        },
+        {
+          "name": "goscan",
+          "full_name": "marco-lancini/goscan",
+          "html_url": "https://github.com/marco-lancini/goscan",
+          "description": "Interactive Network Scanner"
+        },
+        {
+          "name": "iprange",
+          "full_name": "malfunkt/iprange",
+          "html_url": "https://github.com/malfunkt/iprange",
+          "description": "IPv4 address parser for the nmap format"
+        },
+        {
+          "name": "nmap",
+          "full_name": "Ullaakut/nmap",
+          "html_url": "https://github.com/Ullaakut/nmap",
+          "description": "Idiomatic nmap library for go developers"
+        },
+        {
+          "name": "go-version",
+          "full_name": "hashicorp/go-version",
+          "html_url": "https://github.com/hashicorp/go-version",
+          "description": "A Go (golang) library for parsing and verifying versions and version constraints."
+        },
+        {
+          "name": "baidu-netdisk-downloaderx",
+          "full_name": "b3log/baidu-netdisk-downloaderx",
+          "html_url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+          "description": "⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+          "name": "pan-light",
+          "full_name": "peterq/pan-light",
+          "html_url": "https://github.com/peterq/pan-light",
+          "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
+        },
+        {
+          "name": "ldap",
+          "full_name": "go-ldap/ldap",
+          "html_url": "https://github.com/go-ldap/ldap",
+          "description": "Basic LDAP v3 functionality for the GO programming language."
+        },
+        {
+          "name": "quicktemplate",
+          "full_name": "valyala/quicktemplate",
+          "html_url": "https://github.com/valyala/quicktemplate",
+          "description": "Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template"
+        },
+        {
+          "name": "term",
+          "full_name": "pkg/term",
+          "html_url": "https://github.com/pkg/term",
+          "description": "Package term manages POSIX terminals."
+        },
+        {
+          "name": "lazydocker",
+          "full_name": "jesseduffield/lazydocker",
+          "html_url": "https://github.com/jesseduffield/lazydocker",
+          "description": "The lazier way to manage everything docker"
+        },
+        {
+          "name": "awesome-distributed-systems",
+          "full_name": "zhenlohuang/awesome-distributed-systems",
+          "html_url": "https://github.com/zhenlohuang/awesome-distributed-systems",
+          "description": "A curated list of awesome distributed systems books, papers, resources and shiny things."
+        },
+        {
+          "name": "Distributed-Systems",
+          "full_name": "feixiao/Distributed-Systems",
+          "html_url": "https://github.com/feixiao/Distributed-Systems",
+          "description": "MIT课程《Distributed Systems 》学习和翻译"
+        },
+        {
+          "name": "LeetCode-Go",
+          "full_name": "halfrost/LeetCode-Go",
+          "html_url": "https://github.com/halfrost/LeetCode-Go",
+          "description": "✅ Solutions to LeetCode by Go, 100% test coverage. / LeetCode 题解"
+        },
+        {
+          "name": "bettercap",
+          "full_name": "bettercap/bettercap",
+          "html_url": "https://github.com/bettercap/bettercap",
+          "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks."
+        },
+        {
+          "name": "weekly.manong.io",
+          "full_name": "toutiaoio/weekly.manong.io",
+          "html_url": "https://github.com/toutiaoio/weekly.manong.io",
+          "description": "码农周刊 - 史上最全的编程学习资料合集（持续更新）"
+        },
+        {
+          "name": "ttygif",
+          "full_name": "sugyan/ttygif",
+          "html_url": "https://github.com/sugyan/ttygif",
+          "description": "ttyrec to gif"
+        },
+        {
+          "name": "grpc-tools",
+          "full_name": "bradleyjkemp/grpc-tools",
+          "html_url": "https://github.com/bradleyjkemp/grpc-tools",
+          "description": "A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC."
+        },
+        {
+          "name": "wechat-go",
+          "full_name": "songtianyi/wechat-go",
+          "html_url": "https://github.com/songtianyi/wechat-go",
+          "description": "go version wechat web api and message framework for building wechat robot"
+        },
+        {
+          "name": "hound",
+          "full_name": "hound-search/hound",
+          "html_url": "https://github.com/hound-search/hound",
+          "description": "Lightning fast code searching made easy"
+        },
+        {
+          "name": "redis",
+          "full_name": "go-redis/redis",
+          "html_url": "https://github.com/go-redis/redis",
+          "description": "Type-safe Redis client for Golang"
+        },
+        {
+          "name": "python-hpilo",
+          "full_name": "seveas/python-hpilo",
+          "html_url": "https://github.com/seveas/python-hpilo",
+          "description": "Accessing the HP iLO XML interface from python"
+        },
+        {
+          "name": "gotree",
+          "full_name": "8treenet/gotree",
+          "html_url": "https://github.com/8treenet/gotree",
+          "description": "Gotree is a vertically distributed framework. Gotree's goal is to easily develop distributed services and liberate the mental burden of developers."
+        },
+        {
+          "name": "influxdb",
+          "full_name": "influxdata/influxdb",
+          "html_url": "https://github.com/influxdata/influxdb",
+          "description": "Scalable datastore for metrics, events, and real-time analytics"
+        },
+        {
+          "name": "dubbo-go",
+          "full_name": "apache/dubbo-go",
+          "html_url": "https://github.com/apache/dubbo-go",
+          "description": "Go Implementation For Apache Dubbo"
+        },
+        {
+          "name": "unioffice",
+          "full_name": "unidoc/unioffice",
+          "html_url": "https://github.com/unidoc/unioffice",
+          "description": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents"
+        },
+        {
+          "name": "unipdf",
+          "full_name": "unidoc/unipdf",
+          "html_url": "https://github.com/unidoc/unipdf",
+          "description": "Golang PDF library for creating and processing PDF files (pure go)"
+        },
+        {
+          "name": "goldmark",
+          "full_name": "yuin/goldmark",
+          "html_url": "https://github.com/yuin/goldmark",
+          "description": ":trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured."
+        },
+        {
+          "name": "goenv",
+          "full_name": "syndbg/goenv",
+          "html_url": "https://github.com/syndbg/goenv",
+          "description": ":blue_car: Like pyenv and rbenv, but for Go."
+        },
+        {
+          "name": "goproxy.cn",
+          "full_name": "goproxy/goproxy.cn",
+          "html_url": "https://github.com/goproxy/goproxy.cn",
+          "description": "The most trusted Go module proxy in China."
+        },
+        {
+          "name": "go-git",
+          "full_name": "src-d/go-git",
+          "html_url": "https://github.com/src-d/go-git",
+          "description": "Projects has been moved to: "
+        },
+        {
+          "name": "snmpcollector",
+          "full_name": "toni-moreno/snmpcollector",
+          "html_url": "https://github.com/toni-moreno/snmpcollector",
+          "description": "A full featured  Generic SNMP data collector with Web Administration Interface  for InfluxDB"
+        },
+        {
+          "name": "snmpgo",
+          "full_name": "k-sone/snmpgo",
+          "html_url": "https://github.com/k-sone/snmpgo",
+          "description": "snmpgo is a golang implementation for SNMP"
+        },
+        {
+          "name": "gosnmp",
+          "full_name": "alouca/gosnmp",
+          "html_url": "https://github.com/alouca/gosnmp",
+          "description": "A simple SNMP library written in GoLang"
+        },
+        {
+          "name": "oneview-ansible",
+          "full_name": "HewlettPackard/oneview-ansible",
+          "html_url": "https://github.com/HewlettPackard/oneview-ansible",
+          "description": "Ansible Modules and Sample Playbooks for HPE OneView"
+        },
+        {
+          "name": "ansible-role-lxca-inventory",
+          "full_name": "lenovo/ansible-role-lxca-inventory",
+          "html_url": "https://github.com/lenovo/ansible-role-lxca-inventory",
+          "description": "Ansible Role to get inventory data of managed elements from Lenovo xClarity Administratr."
+        },
+        {
+          "name": "dellemc-openmanage-ansible-modules",
+          "full_name": "dell/dellemc-openmanage-ansible-modules",
+          "html_url": "https://github.com/dell/dellemc-openmanage-ansible-modules",
+          "description": "Dell EMC OpenManage Ansible Modules"
+        },
+        {
+          "name": "ansible",
+          "full_name": "hellojukay/ansible",
+          "html_url": "https://github.com/hellojukay/ansible",
+          "description": "a demo show you how to create ansible module by golang"
+        },
+        {
+          "name": "syncmap",
+          "full_name": "a8m/syncmap",
+          "html_url": "https://github.com/a8m/syncmap",
+          "description": "A typed implementation of the Go sync.Map using code generation"
+        },
+        {
+          "name": "tml",
+          "full_name": "liamg/tml",
+          "html_url": "https://github.com/liamg/tml",
+          "description": ":rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!"
+        },
+        {
+          "name": "termdash",
+          "full_name": "mum4k/termdash",
+          "html_url": "https://github.com/mum4k/termdash",
+          "description": "Terminal based dashboard."
+        },
+        {
+          "name": "jsonschema",
+          "full_name": "alecthomas/jsonschema",
+          "html_url": "https://github.com/alecthomas/jsonschema",
+          "description": "Generate JSON Schemas from Go types"
+        },
+        {
+          "name": "ansible",
+          "full_name": "ansible/ansible",
+          "html_url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        },
+        {
+          "name": "cascadia",
+          "full_name": "andybalholm/cascadia",
+          "html_url": "https://github.com/andybalholm/cascadia",
+          "description": "CSS selector library in Go"
+        },
+        {
+          "name": "profile-summary-for-github",
+          "full_name": "tipsy/profile-summary-for-github",
+          "html_url": "https://github.com/tipsy/profile-summary-for-github",
+          "description": "Tool for visualizing GitHub profiles"
+        },
+        {
+          "name": "gowid",
+          "full_name": "gcla/gowid",
+          "html_url": "https://github.com/gcla/gowid",
+          "description": "Compositional widgets for terminal user interfaces, written in Go, inspired by urwid."
+        },
+        {
+          "name": "termshark",
+          "full_name": "gcla/termshark",
+          "html_url": "https://github.com/gcla/termshark",
+          "description": "A terminal UI for tshark, inspired by Wireshark"
+        },
+        {
+          "name": "sshcode",
+          "full_name": "cdr/sshcode",
+          "html_url": "https://github.com/cdr/sshcode",
+          "description": "Run VS Code on any server over SSH."
+        },
+        {
+          "name": "buildah",
+          "full_name": "containers/buildah",
+          "html_url": "https://github.com/containers/buildah",
+          "description": "A tool that facilitates building OCI images"
+        },
+        {
+          "name": "vscodium",
+          "full_name": "VSCodium/vscodium",
+          "html_url": "https://github.com/VSCodium/vscodium",
+          "description": "binary releases of VS Code without MS branding/telemetry/licensing"
+        },
+        {
+          "name": "go-jsonnet",
+          "full_name": "google/go-jsonnet",
+          "html_url": "https://github.com/google/go-jsonnet",
+          "description": ""
+        },
+        {
+          "name": "go-systemd",
+          "full_name": "coreos/go-systemd",
+          "html_url": "https://github.com/coreos/go-systemd",
+          "description": "Go bindings to systemd socket activation, journal, D-Bus, and unit files"
+        },
+        {
+          "name": "hcsshim",
+          "full_name": "microsoft/hcsshim",
+          "html_url": "https://github.com/microsoft/hcsshim",
+          "description": "Windows - Host Compute Service Shim"
+        },
+        {
+          "name": "USTC-Course",
+          "full_name": "USTC-Resource/USTC-Course",
+          "html_url": "https://github.com/USTC-Resource/USTC-Course",
+          "description": ":heart:中国科学技术大学课程资源"
+        },
+        {
+          "name": "gfile",
+          "full_name": "Antonito/gfile",
+          "html_url": "https://github.com/Antonito/gfile",
+          "description": "Direct file transfer over WebRTC"
+        },
+        {
+          "name": "free-gophers-pack",
+          "full_name": "MariaLetta/free-gophers-pack",
+          "html_url": "https://github.com/MariaLetta/free-gophers-pack",
+          "description": "✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more."
+        },
+        {
+          "name": "The-Golang-Standard-Library-by-Example",
+          "full_name": "polaris1119/The-Golang-Standard-Library-by-Example",
+          "html_url": "https://github.com/polaris1119/The-Golang-Standard-Library-by-Example",
+          "description": "Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。"
+        },
+        {
+          "name": "project-layout",
+          "full_name": "golang-standards/project-layout",
+          "html_url": "https://github.com/golang-standards/project-layout",
+          "description": "Standard Go Project Layout"
+        },
+        {
+          "name": "go-qrcode",
+          "full_name": "skip2/go-qrcode",
+          "html_url": "https://github.com/skip2/go-qrcode",
+          "description": ":sparkles: QR Code encoder (Go)"
+        },
+        {
+          "name": "docli",
+          "full_name": "celicoo/docli",
+          "html_url": "https://github.com/celicoo/docli",
+          "description": "Docli - Command-line interfaces made easy"
+        },
+        {
+          "name": "kraken",
+          "full_name": "uber/kraken",
+          "html_url": "https://github.com/uber/kraken",
+          "description": "P2P Docker registry capable of distributing TBs of data in seconds"
+        },
+        {
+          "name": "sh",
+          "full_name": "natefinch/sh",
+          "html_url": "https://github.com/natefinch/sh",
+          "description": "Package sh makes working with shell commands more shell-like.  Inspired by https://github.com/amoffat/sh"
+        },
+        {
+          "name": "hugo",
+          "full_name": "gohugoio/hugo",
+          "html_url": "https://github.com/gohugoio/hugo",
+          "description": "The world’s fastest framework for building websites."
+        },
+        {
+          "name": "slim",
+          "full_name": "openacid/slim",
+          "html_url": "https://github.com/openacid/slim",
+          "description": "Surprisingly space efficient trie in Golang(11 bits/key; 100 ns/get)."
+        },
+        {
+          "name": "server",
+          "full_name": "gotify/server",
+          "html_url": "https://github.com/gotify/server",
+          "description": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)"
+        },
+        {
+          "name": "yaml",
+          "full_name": "go-yaml/yaml",
+          "html_url": "https://github.com/go-yaml/yaml",
+          "description": "YAML support for the Go language."
+        },
+        {
+          "name": "immutable",
+          "full_name": "benbjohnson/immutable",
+          "html_url": "https://github.com/benbjohnson/immutable",
+          "description": "Immutable collections for Go"
+        },
+        {
+          "name": "nutsdb",
+          "full_name": "xujiajun/nutsdb",
+          "html_url": "https://github.com/xujiajun/nutsdb",
+          "description": "A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set."
+        },
+        {
+          "name": "PPGo_Job",
+          "full_name": "george518/PPGo_Job",
+          "html_url": "https://github.com/george518/PPGo_Job",
+          "description": "PPGo_Job是一款可视化的、多人多权限的、一任务多机执行的定时任务管理系统，采用golang开发，安装方便，资源消耗少，支持大并发，可同时管理多台服务器上的定时任务。"
+        },
+        {
           "name": "Cloudboot",
           "full_name": "idcos/Cloudboot",
           "html_url": "https://github.com/idcos/Cloudboot",
@@ -17,7 +1145,7 @@
           "name": "k3s",
           "full_name": "rancher/k3s",
           "html_url": "https://github.com/rancher/k3s",
-          "description": "Lightweight Kubernetes. 5 less than k8s.  "
+          "description": "Lightweight Kubernetes"
         },
         {
           "name": "go2-book",
@@ -42,12 +1170,6 @@
           "full_name": "lni/dragonboat",
           "html_url": "https://github.com/lni/dragonboat",
           "description": "A feature complete and high performance multi-group Raft library in Go.  "
-        },
-        {
-          "name": "USTC-CS-Courses-Resource",
-          "full_name": "mbinary/USTC-CS-Courses-Resource",
-          "html_url": "https://github.com/mbinary/USTC-CS-Courses-Resource",
-          "description": ":heart:中国科学技术大学计算机学院课程资源"
         },
         {
           "name": "air",
@@ -75,9 +1197,9 @@
         },
         {
           "name": "nps",
-          "full_name": "cnlh/nps",
-          "html_url": "https://github.com/cnlh/nps",
-          "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。"
+          "full_name": "ehang-io/nps",
+          "html_url": "https://github.com/ehang-io/nps",
+          "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
         },
         {
           "name": "timeliner",
@@ -101,13 +1223,13 @@
           "name": "filetype",
           "full_name": "h2non/filetype",
           "html_url": "https://github.com/h2non/filetype",
-          "description": "Small, dependency-free and fast Go package to infer file types based on its magic numbers signature"
+          "description": "Fast, dependency-free, small Go package to infer binary file types based on the magic numbers signature"
         },
         {
           "name": "Gorsair",
           "full_name": "Ullaakut/Gorsair",
           "html_url": "https://github.com/Ullaakut/Gorsair",
-          "description": "Gorsair hacks its way into remote docker containers that expose their APIs."
+          "description": "Gorsair hacks its way into remote docker containers that expose their APIs"
         },
         {
           "name": "docui",
@@ -123,8 +1245,8 @@
         },
         {
           "name": "go-echarts",
-          "full_name": "chenjiandongx/go-echarts",
-          "html_url": "https://github.com/chenjiandongx/go-echarts",
+          "full_name": "go-echarts/go-echarts",
+          "html_url": "https://github.com/go-echarts/go-echarts",
           "description": "🎨 The adorable charts library for Golang"
         },
         {
@@ -135,8 +1257,8 @@
         },
         {
           "name": "go-torch",
-          "full_name": "uber/go-torch",
-          "html_url": "https://github.com/uber/go-torch",
+          "full_name": "uber-archive/go-torch",
+          "html_url": "https://github.com/uber-archive/go-torch",
           "description": "Stochastic flame graph profiler for Go programs"
         },
         {
@@ -231,8 +1353,8 @@
         },
         {
           "name": "certmagic",
-          "full_name": "mholt/certmagic",
-          "html_url": "https://github.com/mholt/certmagic",
+          "full_name": "caddyserver/certmagic",
+          "html_url": "https://github.com/caddyserver/certmagic",
           "description": "Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal"
         },
         {
@@ -353,7 +1475,7 @@
           "name": "netcap",
           "full_name": "dreadl0ck/netcap",
           "html_url": "https://github.com/dreadl0ck/netcap",
-          "description": "A framework for secure and scalable network traffic analysis"
+          "description": "A framework for secure and scalable network traffic analysis - https://netcap.io"
         },
         {
           "name": "pgweb",
@@ -419,7 +1541,7 @@
           "name": "ants",
           "full_name": "panjf2000/ants",
           "html_url": "https://github.com/panjf2000/ants",
-          "description": "🐜⚡️A high-performance goroutine pool for Go, inspired by fasthttp."
+          "description": "🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。"
         },
         {
           "name": "wire",
@@ -429,8 +1551,8 @@
         },
         {
           "name": "ethr",
-          "full_name": "Microsoft/ethr",
-          "html_url": "https://github.com/Microsoft/ethr",
+          "full_name": "microsoft/ethr",
+          "html_url": "https://github.com/microsoft/ethr",
           "description": "Ethr is a Network Performance Measurement Tool for TCP, UDP \u0026 HTTP."
         },
         {
@@ -443,7 +1565,7 @@
           "name": "spinner",
           "full_name": "briandowns/spinner",
           "html_url": "https://github.com/briandowns/spinner",
-          "description": "Go (golang) package for providing a terminal spinner/progress indicator with options."
+          "description": "Go (golang) package with 70+ configurable terminal spinner/progress indicators."
         },
         {
           "name": "autopprof",
@@ -479,7 +1601,7 @@
           "name": "archiver",
           "full_name": "mholt/archiver",
           "html_url": "https://github.com/mholt/archiver",
-          "description": "Easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar (extract-only) files with Go"
+          "description": "Easily create \u0026 extract archives, and compress \u0026 decompress files of various formats"
         },
         {
           "name": "go-memdb",
@@ -513,15 +1635,15 @@
         },
         {
           "name": "orchestrator",
-          "full_name": "github/orchestrator",
-          "html_url": "https://github.com/github/orchestrator",
+          "full_name": "openark/orchestrator",
+          "html_url": "https://github.com/openark/orchestrator",
           "description": "MySQL replication topology management and HA"
         },
         {
           "name": "uuid",
           "full_name": "google/uuid",
           "html_url": "https://github.com/google/uuid",
-          "description": ""
+          "description": "Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services."
         },
         {
           "name": "dive",
@@ -545,7 +1667,7 @@
           "name": "CS-Notes",
           "full_name": "CyC2018/CS-Notes",
           "html_url": "https://github.com/CyC2018/CS-Notes",
-          "description": "😋  技术面试必备基础知识"
+          "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++"
         },
         {
           "name": "soar",
@@ -555,8 +1677,8 @@
         },
         {
           "name": "vscode-go",
-          "full_name": "Microsoft/vscode-go",
-          "html_url": "https://github.com/Microsoft/vscode-go",
+          "full_name": "microsoft/vscode-go",
+          "html_url": "https://github.com/microsoft/vscode-go",
           "description": "An extension for VS Code which provides support for the Go language."
         },
         {
@@ -575,12 +1697,12 @@
           "name": "kcp-go",
           "full_name": "xtaci/kcp-go",
           "html_url": "https://github.com/xtaci/kcp-go",
-          "description": " A Production-Grade Reliable-UDP Library for golang"
+          "description": " A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC "
         },
         {
           "name": "bloomfilter",
-          "full_name": "httpimp/bloomfilter",
-          "html_url": "https://github.com/httpimp/bloomfilter",
+          "full_name": "kevburnsjr/bloomfilter",
+          "html_url": "https://github.com/kevburnsjr/bloomfilter",
           "description": "bloomfilter.js ported to Go"
         },
         {
@@ -605,7 +1727,7 @@
           "name": "go-under-the-hood",
           "full_name": "changkun/go-under-the-hood",
           "html_url": "https://github.com/changkun/go-under-the-hood",
-          "description": "📚 Go 源码研究 (1.12, WIP)"
+          "description": "📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)"
         },
         {
           "name": "ginkgo",
@@ -647,7 +1769,7 @@
           "name": "centrifugo",
           "full_name": "centrifugal/centrifugo",
           "html_url": "https://github.com/centrifugal/centrifugo",
-          "description": "Language-agnostic real-time messaging server (Websocket and SockJS)"
+          "description": "Scalable real-time messaging server in language-agnostic way"
         },
         {
           "name": "TarsGo",
@@ -663,8 +1785,8 @@
         },
         {
           "name": "pdfcpu",
-          "full_name": "hhrutter/pdfcpu",
-          "html_url": "https://github.com/hhrutter/pdfcpu",
+          "full_name": "pdfcpu/pdfcpu",
+          "html_url": "https://github.com/pdfcpu/pdfcpu",
           "description": "A PDF processor written in Go."
         },
         {
@@ -734,9 +1856,9 @@
           "description": "OCI Runtime Specification"
         },
         {
-          "name": "learning-golang",
-          "full_name": "developer-learning/learning-golang",
-          "html_url": "https://github.com/developer-learning/learning-golang",
+          "name": "read",
+          "full_name": "talk-go/read",
+          "html_url": "https://github.com/talk-go/read",
           "description": "Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）"
         },
         {
@@ -749,7 +1871,7 @@
           "name": "cli",
           "full_name": "smallstep/cli",
           "html_url": "https://github.com/smallstep/cli",
-          "description": "A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc."
+          "description": "🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc."
         },
         {
           "name": "go-set",
@@ -785,7 +1907,7 @@
           "name": "go-template",
           "full_name": "kataras/go-template",
           "html_url": "https://github.com/kataras/go-template",
-          "description": ":metal: The best way to work with different type of Template Engines and Parsers for Go Programming Language"
+          "description": ":speaker: Deprecated. Use https://github.com/kataras/iris/wiki/View instead"
         },
         {
           "name": "pongo2",
@@ -903,9 +2025,9 @@
         },
         {
           "name": "subfinder",
-          "full_name": "subfinder/subfinder",
-          "html_url": "https://github.com/subfinder/subfinder",
-          "description": "SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing."
+          "full_name": "projectdiscovery/subfinder",
+          "html_url": "https://github.com/projectdiscovery/subfinder",
+          "description": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing."
         },
         {
           "name": "minikube",
@@ -921,8 +2043,8 @@
         },
         {
           "name": "statping",
-          "full_name": "hunterlong/statping",
-          "html_url": "https://github.com/hunterlong/statping",
+          "full_name": "statping/statping",
+          "html_url": "https://github.com/statping/statping",
           "description": "Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment."
         },
         {
@@ -950,10 +2072,10 @@
           "description": "GitHub Flavored Markdown renderer with fenced code block highlighting, clickable header anchor links."
         },
         {
-          "name": "im.dev",
-          "full_name": "imdevlab/im.dev",
-          "html_url": "https://github.com/imdevlab/im.dev",
-          "description": "An modern Instant Messaging(IM) platform for Developers to easily build their own messaging system "
+          "name": "koala",
+          "full_name": "apm-ai/koala",
+          "html_url": "https://github.com/apm-ai/koala",
+          "description": ":koala:   is a next-generation APM backend for @open-telemetry, written in go and reactjs"
         },
         {
           "name": "mkcert",
@@ -965,7 +2087,7 @@
           "name": "gometalinter",
           "full_name": "alecthomas/gometalinter",
           "html_url": "https://github.com/alecthomas/gometalinter",
-          "description": "DEPRECATED: Concurrently run Go lint tools and normalise their output"
+          "description": "DEPRECATED: Use https://github.com/golangci/golangci-lint"
         },
         {
           "name": "lint",
@@ -987,15 +2109,15 @@
         },
         {
           "name": "watchtower",
-          "full_name": "v2tec/watchtower",
-          "html_url": "https://github.com/v2tec/watchtower",
-          "description": "Automatically update running Docker containers"
+          "full_name": "containrrr/watchtower",
+          "html_url": "https://github.com/containrrr/watchtower",
+          "description": "A process for automating Docker container base image updates. "
         },
         {
           "name": "brook",
           "full_name": "txthinking/brook",
           "html_url": "https://github.com/txthinking/brook",
-          "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software"
+          "description": "Brook is a cross-platform(Linux/BSD/MacOS/Windows/Android/iOS) proxy/vpn software. Zero-Configuration."
         },
         {
           "name": "gojsonq",
@@ -1007,7 +2129,7 @@
           "name": "pouch",
           "full_name": "alibaba/pouch",
           "html_url": "https://github.com/alibaba/pouch",
-          "description": "An Efficient Enterprise-class Rich Container Engine"
+          "description": "An Efficient Enterprise-class Container Engine"
         },
         {
           "name": "simpletable",
@@ -1079,7 +2201,7 @@
           "name": "pigo",
           "full_name": "esimov/pigo",
           "html_url": "https://github.com/esimov/pigo",
-          "description": "Golang implementation of Pico face detection library."
+          "description": "Pure Go face detection library"
         },
         {
           "name": "oauth2",
@@ -1130,10 +2252,10 @@
           "description": "An open source, general-purpose policy engine."
         },
         {
-          "name": "EOLINKER-GoKu-API-Gateway-CE",
-          "full_name": "eolinker/EOLINKER-GoKu-API-Gateway-CE",
-          "html_url": "https://github.com/eolinker/EOLINKER-GoKu-API-Gateway-CE",
-          "description": "GoKu API Gateway CE，悟空API网关（开源版），是国内首个开源go语言API网关，帮助企业进行API服务治理与API性能安全维护，为企业数字化赋能。"
+          "name": "goku-api-gateway",
+          "full_name": "eolinker/goku-api-gateway",
+          "html_url": "https://github.com/eolinker/goku-api-gateway",
+          "description": "A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。"
         },
         {
           "name": "DataViz",
@@ -1145,7 +2267,7 @@
           "name": "sh",
           "full_name": "mvdan/sh",
           "html_url": "https://github.com/mvdan/sh",
-          "description": "A shell parser, formatter, and interpreter (POSIX/Bash/mksh)"
+          "description": "A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt"
         },
         {
           "name": "DocHub",
@@ -1181,13 +2303,7 @@
           "name": "tidb",
           "full_name": "pingcap/tidb",
           "html_url": "https://github.com/pingcap/tidb",
-          "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol "
-        },
-        {
-          "name": "iotex-core",
-          "full_name": "iotexproject/iotex-core",
-          "html_url": "https://github.com/iotexproject/iotex-core",
-          "description": "Official Go implementation of the IoTeX protocol"
+          "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol "
         },
         {
           "name": "gvisor",
@@ -1271,7 +2387,7 @@
           "name": "goproxy",
           "full_name": "snail007/goproxy",
           "html_url": "https://github.com/snail007/goproxy",
-          "description": "Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。"
+          "description": "Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。"
         },
         {
           "name": "zerolog",
@@ -1304,9 +2420,9 @@
           "description": "QR Codes in your terminal"
         },
         {
-          "name": "qr-filetransfer",
-          "full_name": "claudiodangelis/qr-filetransfer",
-          "html_url": "https://github.com/claudiodangelis/qr-filetransfer",
+          "name": "qrcp",
+          "full_name": "claudiodangelis/qrcp",
+          "html_url": "https://github.com/claudiodangelis/qrcp",
           "description": ":zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal."
         },
         {
@@ -1403,7 +2519,7 @@
           "name": "gjson",
           "full_name": "tidwall/gjson",
           "html_url": "https://github.com/tidwall/gjson",
-          "description": "Get JSON values quickly  - JSON Parser for Go"
+          "description": "Get JSON values quickly - JSON parser for Go"
         },
         {
           "name": "run",
@@ -1421,7 +2537,7 @@
           "name": "usql",
           "full_name": "xo/usql",
           "html_url": "https://github.com/xo/usql",
-          "description": "universal command-line interface for SQL databases"
+          "description": "Universal command-line interface for SQL databases"
         },
         {
           "name": "chi",
@@ -1505,7 +2621,7 @@
           "name": "terraform",
           "full_name": "hashicorp/terraform",
           "html_url": "https://github.com/hashicorp/terraform",
-          "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently."
+          "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
         },
         {
           "name": "httpstat",
@@ -1529,7 +2645,7 @@
           "name": "jaeger",
           "full_name": "jaegertracing/jaeger",
           "html_url": "https://github.com/jaegertracing/jaeger",
-          "description": "CNCF Jaeger, a Distributed Tracing System"
+          "description": "CNCF Jaeger, a Distributed Tracing Platform"
         },
         {
           "name": "otp",
@@ -1583,7 +2699,7 @@
           "name": "go-micro",
           "full_name": "micro/go-micro",
           "html_url": "https://github.com/micro/go-micro",
-          "description": "A microservice framework"
+          "description": "A Go distributed systems development framework"
         },
         {
           "name": "free-programming-books",
@@ -1737,8 +2853,8 @@
         },
         {
           "name": "gopher-os",
-          "full_name": "achilleasa/gopher-os",
-          "html_url": "https://github.com/achilleasa/gopher-os",
+          "full_name": "gopher-os/gopher-os",
+          "html_url": "https://github.com/gopher-os/gopher-os",
           "description": "A proof of concept OS kernel written in Go"
         },
         {
@@ -1749,8 +2865,8 @@
         },
         {
           "name": "go-winio",
-          "full_name": "Microsoft/go-winio",
-          "html_url": "https://github.com/Microsoft/go-winio",
+          "full_name": "microsoft/go-winio",
+          "html_url": "https://github.com/microsoft/go-winio",
           "description": "Win32 IO-related utilities for Go"
         },
         {
@@ -1827,8 +2943,8 @@
         },
         {
           "name": "slate",
-          "full_name": "lord/slate",
-          "html_url": "https://github.com/lord/slate",
+          "full_name": "slatedocs/slate",
+          "html_url": "https://github.com/slatedocs/slate",
           "description": "Beautiful static documentation for your API"
         },
         {
@@ -1917,8 +3033,8 @@
         },
         {
           "name": "fsql",
-          "full_name": "kshvmdn/fsql",
-          "html_url": "https://github.com/kshvmdn/fsql",
+          "full_name": "kashav/fsql",
+          "html_url": "https://github.com/kashav/fsql",
           "description": "Search through your filesystem with SQL-esque queries."
         },
         {
@@ -1955,7 +3071,7 @@
           "name": "portainer",
           "full_name": "portainer/portainer",
           "html_url": "https://github.com/portainer/portainer",
-          "description": "Simple management UI for Docker"
+          "description": "Making Docker management easy."
         },
         {
           "name": "go-txdb",
@@ -1991,7 +3107,7 @@
           "name": "rkt",
           "full_name": "rkt/rkt",
           "html_url": "https://github.com/rkt/rkt",
-          "description": "rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards."
+          "description": "[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards."
         },
         {
           "name": "containerd",
@@ -2060,16 +3176,10 @@
           "description": "Manage local application configuration files using templates and data from etcd or consul"
         },
         {
-          "name": "dep",
-          "full_name": "golang/dep",
-          "html_url": "https://github.com/golang/dep",
-          "description": "Go dependency management tool"
-        },
-        {
-          "name": "swarm",
-          "full_name": "docker/swarm",
-          "html_url": "https://github.com/docker/swarm",
-          "description": "Swarm: a Docker-native clustering system"
+          "name": "classicswarm",
+          "full_name": "docker/classicswarm",
+          "html_url": "https://github.com/docker/classicswarm",
+          "description": "Swarm Classic: a container clustering system"
         },
         {
           "name": "appdash",
@@ -2093,7 +3203,7 @@
           "name": "shadowsocks-go",
           "full_name": "shadowsocks/shadowsocks-go",
           "html_url": "https://github.com/shadowsocks/shadowsocks-go",
-          "description": "go port of shadowsocks"
+          "description": "go port of shadowsocks (Deprecated)"
         },
         {
           "name": "log",
@@ -2111,7 +3221,7 @@
           "name": "go-datastructures",
           "full_name": "Workiva/go-datastructures",
           "html_url": "https://github.com/Workiva/go-datastructures",
-          "description": ""
+          "description": "A collection of useful, performant, and threadsafe Go datastructures."
         },
         {
           "name": "kubernetes",
@@ -2135,7 +3245,7 @@
           "name": "gogs",
           "full_name": "gogs/gogs",
           "html_url": "https://github.com/gogs/gogs",
-          "description": "Gogs is a painless self-hosted Git service."
+          "description": "Gogs is a painless self-hosted Git service"
         },
         {
           "name": "gitea",
@@ -2153,7 +3263,7 @@
           "name": "scipipe",
           "full_name": "scipipe/scipipe",
           "html_url": "https://github.com/scipipe/scipipe",
-          "description": "SciPipe is a library for writing scientific workflows (sometimes also called \"pipelines\") of shell commands that depend on each other, in the Go programming language (aka golang). It was initially designed for problems in cheminformatics and bioinformatics, but applies equally well to any domain involving complex pipelines of interdependent shell commands."
+          "description": "Robust, flexible and resource-efficient pipelines using Go and the commandline"
         },
         {
           "name": "jid",
@@ -2231,7 +3341,7 @@
           "name": "kingpin",
           "full_name": "alecthomas/kingpin",
           "html_url": "https://github.com/alecthomas/kingpin",
-          "description": "A Go (golang) command line and flag parser"
+          "description": "CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser"
         },
         {
           "name": "go-rm",
@@ -2249,13 +3359,13 @@
           "name": "qt",
           "full_name": "therecipe/qt",
           "html_url": "https://github.com/therecipe/qt",
-          "description": "Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly"
+          "description": "Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly"
         },
         {
           "name": "gotests",
           "full_name": "cweill/gotests",
           "html_url": "https://github.com/cweill/gotests",
-          "description": "Generate Go tests from your source code."
+          "description": "Automatically generate Go test boilerplate from your source code."
         },
         {
           "name": "goreplay",
@@ -2277,8 +3387,8 @@
         },
         {
           "name": "wetty",
-          "full_name": "krishnasrinivas/wetty",
-          "html_url": "https://github.com/krishnasrinivas/wetty",
+          "full_name": "butlerx/wetty",
+          "html_url": "https://github.com/butlerx/wetty",
           "description": "Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)"
         },
         {
@@ -2325,15 +3435,15 @@
         },
         {
           "name": "Go-Algorithm",
-          "full_name": "RincLiu/Go-Algorithm",
-          "html_url": "https://github.com/RincLiu/Go-Algorithm",
+          "full_name": "R1NC/Go-Algorithm",
+          "html_url": "https://github.com/R1NC/Go-Algorithm",
           "description": "Implementations of data structures \u0026 algorithms written in Golang."
         },
         {
           "name": "rpcx",
           "full_name": "smallnest/rpcx",
           "html_url": "https://github.com/smallnest/rpcx",
-          "description": "Faster multil-language  bidirectional RPC framework in Go, like alibaba Dubbo, but with more features, Scale easily."
+          "description": "A zero cost, faster multi-language  bidirectional microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱!"
         },
         {
           "name": "disconf",
@@ -2345,7 +3455,7 @@
           "name": "xlsx",
           "full_name": "tealeg/xlsx",
           "html_url": "https://github.com/tealeg/xlsx",
-          "description": "Google Go (golang) library for reading and writing XLSX files.  You should probably also checkout: https://github.com/360EntSecGroup-Skylar/excelize"
+          "description": "Go (golang) library for reading and writing XLSX files. "
         },
         {
           "name": "protobuf",
@@ -2402,9 +3512,9 @@
           "description": "An implementation of GraphQL for Go / Golang"
         },
         {
-          "name": "graphql",
-          "full_name": "facebook/graphql",
-          "html_url": "https://github.com/facebook/graphql",
+          "name": "graphql-spec",
+          "full_name": "graphql/graphql-spec",
+          "html_url": "https://github.com/graphql/graphql-spec",
           "description": "GraphQL is a query language and execution engine tied to any backend service."
         },
         {
@@ -2453,7 +3563,7 @@
           "name": "mux",
           "full_name": "gorilla/mux",
           "html_url": "https://github.com/gorilla/mux",
-          "description": "A powerful URL router and dispatcher for golang."
+          "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍"
         },
         {
           "name": "awesome-graphql",
@@ -2519,7 +3629,7 @@
           "name": "govendor",
           "full_name": "kardianos/govendor",
           "html_url": "https://github.com/kardianos/govendor",
-          "description": "Go vendor tool that works with the standard vendor file."
+          "description": "Use Go Modules."
         },
         {
           "name": "gojson",
@@ -2543,7 +3653,7 @@
           "name": "websocket",
           "full_name": "gorilla/websocket",
           "html_url": "https://github.com/gorilla/websocket",
-          "description": "A WebSocket implementation for Go."
+          "description": "A fast, well-tested and widely used WebSocket implementation for Go."
         },
         {
           "name": "jobber",
@@ -2567,7 +3677,7 @@
           "name": "iris",
           "full_name": "kataras/iris",
           "html_url": "https://github.com/kataras/iris",
-          "description": "Iris is the fastest community-driven web framework on (THIS) Earth. HTTP/2, MVC and more. Unbeatable free support for everyone. Can your old-fashioned web framework do that? 👉 http://bit.ly/iriscandothat1 or even http://bit.ly/iriscandothat2"
+          "description": "感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |"
         },
         {
           "name": "sessions",
@@ -2591,7 +3701,7 @@
           "name": "micro",
           "full_name": "micro/micro",
           "html_url": "https://github.com/micro/micro",
-          "description": "A microservice toolkit"
+          "description": "Micro is a distributed systems runtime for the Cloud"
         },
         {
           "name": "gru",
@@ -2645,7 +3755,7 @@
           "name": "binding",
           "full_name": "mholt/binding",
           "html_url": "https://github.com/mholt/binding",
-          "description": "Reflectionless data binding for Go's net/http (not yet a stable 1.0, but not likely to change much either)"
+          "description": "Reflectionless data binding for Go's net/http (not actively maintained)"
         },
         {
           "name": "write-a-C-interpreter",
@@ -2693,7 +3803,7 @@
           "name": "jumpserver",
           "full_name": "jumpserver/jumpserver",
           "html_url": "https://github.com/jumpserver/jumpserver",
-          "description": "Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。"
+          "description": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。"
         },
         {
           "name": "govalidator",
@@ -2762,10 +3872,10 @@
           "description": "a Go package to interact with arbitrary JSON"
         },
         {
-          "name": "mangos",
-          "full_name": "nanomsg/mangos",
-          "html_url": "https://github.com/nanomsg/mangos",
-          "description": "package mangos is an implementation in pure Go of the SP (\"Scalable Protocols\") protocols."
+          "name": "mangos-v1",
+          "full_name": "nanomsg/mangos-v1",
+          "html_url": "https://github.com/nanomsg/mangos-v1",
+          "description": "The pure golang implementation of nanomsg (version 1, frozen)"
         },
         {
           "name": "gin",
@@ -2813,7 +3923,7 @@
           "name": "pholcus",
           "full_name": "henrylee2cn/pholcus",
           "html_url": "https://github.com/henrylee2cn/pholcus",
-          "description": "[Crawler for Golang] Pholcus is a distributed, high concurrency and powerful web crawler software."
+          "description": "Pholcus is a distributed high-concurrency crawler software written in pure golang"
         },
         {
           "name": "consul",
@@ -2937,9 +4047,9 @@
         },
         {
           "name": "ledisdb",
-          "full_name": "siddontang/ledisdb",
-          "html_url": "https://github.com/siddontang/ledisdb",
-          "description": "a high performance NoSQL powered by Go"
+          "full_name": "ledisdb/ledisdb",
+          "html_url": "https://github.com/ledisdb/ledisdb",
+          "description": "A high performance NoSQL Database Server powered by Go"
         },
         {
           "name": "moonmq",
@@ -2987,7 +4097,7 @@
           "name": "bootstrap-table",
           "full_name": "wenzhixin/bootstrap-table",
           "html_url": "https://github.com/wenzhixin/bootstrap-table",
-          "description": "An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2, v3 and v4) "
+          "description": "An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)"
         },
         {
           "name": "grpc-go",
@@ -3035,7 +4145,7 @@
           "name": "hprose-golang",
           "full_name": "hprose/hprose-golang",
           "html_url": "https://github.com/hprose/hprose-golang",
-          "description": "Hprose is a cross-language RPC. This project is Hprose 2.0 for Golang."
+          "description": "Hprose is a cross-language RPC. This project is Hprose for Golang."
         },
         {
           "name": "protobuf",
@@ -3083,7 +4193,7 @@
           "name": "cropper",
           "full_name": "fengyuanchen/cropper",
           "html_url": "https://github.com/fengyuanchen/cropper",
-          "description": "A simple jQuery image cropping plugin."
+          "description": "⚠️ [Deprecated] No longer maintained, please use https://github.com/fengyuanchen/jquery-cropper"
         },
         {
           "name": "cutter",
@@ -3137,7 +4247,7 @@
           "name": "xorm",
           "full_name": "go-xorm/xorm",
           "html_url": "https://github.com/go-xorm/xorm",
-          "description": "Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle"
+          "description": "Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm"
         },
         {
           "name": "goconvey",
@@ -3149,7 +4259,7 @@
           "name": "wide",
           "full_name": "b3log/wide",
           "html_url": "https://github.com/b3log/wide",
-          "description": "🎆 一款基于 Web 的 Go 语言 IDE。https://hacpai.com/tag/wide"
+          "description": "🌈 一款基于 Web 的 Go 语言 IDE，随时随地玩 golang。"
         },
         {
           "name": "beego",
